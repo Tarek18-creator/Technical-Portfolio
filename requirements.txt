@@ -1,0 +1,7 @@
+# installable libraries that your project required
+flask
+requests
+requests_mock
+pytest
+pandas
+odf
